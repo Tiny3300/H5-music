@@ -1,0 +1,29 @@
+[
+    {
+        "image": "/source/song_1.jpg",
+        "audio": "/source/song_1.mp3",
+        "song": "天大地大",
+        "album": "天大地大",
+        "singer": "郑少秋",
+        "duration": 300,
+        "isLike": true
+    },
+    {
+        "image": "/source/song_2.jpg",
+        "audio": "/source/song_2.mp3",
+        "song": "花樽与花",
+        "album": "unlock",
+        "singer": "周笔畅",
+        "duration": 272,
+        "isLike": false
+    },
+    {
+        "image": "/source/song_3.jpg",
+        "audio": "/source/song_3.mp3",
+        "song": "初见初恋",
+        "album": "初见初恋",
+        "singer": "孙怡",
+        "duration": 38,
+        "isLike": false
+    }
+]
